@@ -11,6 +11,9 @@
 + #### 🔭design
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
 
+##### currently learning 
++ Mysql
++ React Native
 
 <!--
 **Choseoungyeon/Choseoungyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
